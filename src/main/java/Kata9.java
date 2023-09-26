@@ -7,5 +7,6 @@
 public class Kata9 {
     public static String[] solution(String s) {
 
+
     }
 }
