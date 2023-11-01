@@ -1,8 +1,4 @@
 import java.sql.PreparedStatement;
-
-/*Given a string indicating a range of letters,
- return a string which includes all the letters in that range, including the last letter.
-  Note that if the range is given in capital letters, return the string in capitals also!
 public class Kata14 {
     public static String gimmeTheLetters(String s) {
         if (s == null || s.length() < 3 || s.charAt(1) != '-') {
