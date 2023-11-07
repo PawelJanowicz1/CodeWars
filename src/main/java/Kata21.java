@@ -17,8 +17,7 @@ public class Kata21 {
             trailingZeroes = Math.min(trailingZeroes, count);
         }
         return trailingZeroes;
-    }
-    private static Map<Integer, Integer> primeFactorization(int n) {
+    } private static Map<Integer, Integer> primeFactorization(int n) {
         Map<Integer, Integer> factors = new HashMap<>();
         for (int i = 2; i * i <= n; i++) {
             while (n % i == 0) {
