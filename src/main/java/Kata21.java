@@ -30,7 +30,6 @@ public class Kata21 {
         }
         return factors;
     }
-
     public static void main(String[] args) {
         int base = 10; // Example base
         int number = 10; // Example number
