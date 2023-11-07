@@ -20,7 +20,6 @@ public class Kata21 {
     }
     private static Map<Integer, Integer> primeFactorization(int n) {
         Map<Integer, Integer> factors = new HashMap<>();
-
         for (int i = 2; i * i <= n; i++) {
             while (n % i == 0) {
                 n /= i;
