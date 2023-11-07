@@ -28,7 +28,6 @@ public class Kata21 {
         if (n > 1) {
             factors.put(n, factors.getOrDefault(n, 0) + 1);
         }
-
         return factors;
     }
 
