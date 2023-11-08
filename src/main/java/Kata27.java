@@ -5,4 +5,3 @@ uppercase/lowercase in Kotlin. Typically, these methods won't change the size of
 public class Kata27 {
     static final String STRANGE_STRING = "ß";
 }
-
