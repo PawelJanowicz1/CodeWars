@@ -18,7 +18,6 @@ public class Kata26 {
                 return false;
             }
         }
-
         return true;
     }
 }
