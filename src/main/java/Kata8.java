@@ -9,5 +9,5 @@ public class Kata8 {public static boolean betterThanAverage(int[] classPoints, i
     totalScore =+ yourPoints;
     double average = (double)totalScore / (classPoints.length + 1);
     return yourPoints > average;
-}
+    }
 }
