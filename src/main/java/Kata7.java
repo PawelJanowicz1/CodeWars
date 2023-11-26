@@ -11,4 +11,3 @@ public class Kata7 {
         return bullets / 2 >= dragons;
     }
 }
-
