@@ -4,4 +4,3 @@ public class Kata24 {
         return x.replace(" ", "");
     }
 }
-
