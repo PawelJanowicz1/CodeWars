@@ -46,4 +46,3 @@ public class Kata21 {
         System.out.println("Number of trailing zeroes: " + result);
     }
 }
-
